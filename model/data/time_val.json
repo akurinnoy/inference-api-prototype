@@ -1,0 +1,4298 @@
+[
+  {
+    "text": "meeting with boss",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review before noon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "later today meeting with boss",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies quickly",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API critical tomorrow evening",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting whenever possible",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review by end of day quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with boss next monday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread by end of day",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow buy bread",
+    "bio": [
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "review the deployment plan",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team today",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "write unit tests for the API on wednesday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread immediately",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "later today water the plants",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 next friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill next friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the report asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow take the dog to the vet",
+    "bio": [
+      "B",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "backup the database",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging by tomorrow low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants this afternoon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "backup the database",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet at 3:30pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting this evening",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pick up kids from school by next week asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist today",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk at midnight high priority",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo by next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "buy milk tomorrow at 10am immediately",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor low priority this evening",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill it's important at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "review the deployment plan after lunch",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "backup the database tonight top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting next week not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor tonight it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet this afternoon high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with boss",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen high priority by tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call mom",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow prepare slides for the demo",
+    "bio": [
+      "B",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging at midnight when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug when I have time at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy milk",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo urgent on wednesday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pick up kids from school",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "later today book a flight to Berlin",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "later today finish the report",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill by friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug low priority next friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "take the dog to the vet tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API on the weekend",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet by friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread by friday",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo high priority by tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pick up kids from school at 3:30pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist by friday it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna by tomorrow it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API at 6pm critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "backup the database top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk in an hour low priority",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen urgently in 20 minutes",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call the dentist low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with boss urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor by end of day immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "call mom next friday high priority",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review not important tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pay electricity bill on wednesday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug next monday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call mom quickly next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy milk when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with boss by friday urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "later today fix the login bug",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report by tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call mom",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call mom it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API it's important on wednesday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pay electricity bill it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school high priority on the weekend",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "clean the kitchen critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book at 3:30pm high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 tonight high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "backup the database after lunch",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies urgent in 20 minutes",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor whenever possible tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging top priority at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the report",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school low priority tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting on wednesday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review whenever possible",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "meeting with the team when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries high priority tomorrow at 10am",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "review the deployment plan on wednesday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the report critical in 20 minutes",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call mom critical",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries when I have time tonight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "call mom asap",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting this afternoon urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies this evening quickly",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread not urgent at 3:30pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book today",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book tomorrow evening quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin before noon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo quickly at 6pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting in 20 minutes",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team not important tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "backup the database at 6pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "update dependencies quickly",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 next friday quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo when I have time tomorrow at 10am",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "buy groceries",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "buy milk urgent",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen in an hour",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "pick up kids from school",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread by friday immediately",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "fix the login bug today at 5pm whenever possible",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow review PR #42",
+    "bio": [
+      "B",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug this afternoon not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies at noon not urgent",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread tonight immediately",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "O"
+    ]
+  },
+  {
+    "text": "tonight write unit tests for the API",
+    "bio": [
+      "B",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies next week it's important",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor in an hour",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor tomorrow morning quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk at 3:30pm when I have time",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill immediately in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the quarterly review",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team before noon top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor tomorrow at 10am top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow pay electricity bill",
+    "bio": [
+      "B",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review this afternoon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet top priority by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk whenever possible in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update dependencies",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants not important in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the report",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review not important by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug tonight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna next friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pay electricity bill",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen whenever possible",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call mom quickly this afternoon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the report today at 5pm immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo in an hour",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API low priority at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call mom in 20 minutes",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug urgently in an hour",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "write unit tests for the API at 3:30pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book quickly tonight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "meeting with boss today at 5pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting high priority at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "take the dog to the vet this afternoon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "take the dog to the vet today high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow buy groceries",
+    "bio": [
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging not urgent by next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss next friday quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants by friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor tomorrow at 10am",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "take the dog to the vet high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries next week",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book immediately tomorrow at 10am",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging by end of day quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "update dependencies not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "order new monitor",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread by tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug at midnight quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42 in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen at 6pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call mom immediately in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "review the deployment plan",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen in an hour",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "pick up kids from school low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants tomorrow at 10am urgently",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "pay electricity bill tomorrow evening",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread critical",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book this evening",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pay electricity bill on the weekend",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "review PR #42 not urgent next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call the dentist quickly at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants tomorrow evening quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review after lunch",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin today at 5pm immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "tonight buy milk",
+    "bio": [
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "later today read chapter 5 of the Go book",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team on the weekend",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with the team not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "backup the database",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk immediately",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging at 6pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "update dependencies by end of day",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss critical this afternoon",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the quarterly review quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review whenever possible by next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "call mom by tomorrow immediately",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen urgently",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "backup the database at 6pm urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow call mom",
+    "bio": [
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy version 2.3 to staging next week",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call mom tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "review PR #42 low priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants in 2 hours",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "review the deployment plan by end of day not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug quickly next monday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the login bug next monday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin at 3:30pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "pay electricity bill next monday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "call the dentist at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review the deployment plan on the weekend",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants not important in an hour",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school in 20 minutes not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen high priority on the weekend",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread tomorrow",
+    "bio": [
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "finish the quarterly review by end of day",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "update dependencies",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "prepare slides for the demo",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk critical",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting tomorrow morning",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with the team at 6pm",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "review PR #42 not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "review PR #42",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clean the kitchen it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting urgent tonight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "meeting with the team asap at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review by friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "take the dog to the vet quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with boss",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tomorrow buy milk",
+    "bio": [
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "backup the database urgently",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report not important at 19:00",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting not urgent",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report at noon top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API whenever possible",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "write unit tests for the API next friday high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread top priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book at 19:00 immediately",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the login bug it's important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a flight to Berlin",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting high priority",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting immediately in 20 minutes",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss today",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "order new monitor urgent at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "review the deployment plan by next week urgently",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team critical",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy milk this afternoon",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "backup the database next friday",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting with boss not urgent at midnight",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "order new monitor when I have time",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the invoice to accounting tomorrow quickly",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "O"
+    ]
+  },
+  {
+    "text": "buy bread",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the quarterly review asap",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "water the plants not important",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  }
+]

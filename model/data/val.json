@@ -1,0 +1,8093 @@
+[
+  {
+    "text": "move the couch",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "everything",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "calculate 2 + 2",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "start the car",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "put meeting with the team on Friday on my list",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what tasks do I have",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me what I have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish call John",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "do I have any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I finished call the dentist",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel plan the demo",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "feed the fish",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "analyze the data",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "make sure to schedule 1-on-1 with Anna",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remember to backup photos to cloud",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "get rid of fix the login bug",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "help me",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "jot down meeting with the team on Friday",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "fix the leaking faucet",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "update the README done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "I completed write unit tests for the API",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "pay electricity bill is finished",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remember to take the dog to the vet",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "close the window",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I don't need call mom anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "I finished call mom",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "don't need send the proposal",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "complete meeting with the team on Friday",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call the plumber done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "I'm bored",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "forget about book hotel for the conference",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "sort the files by date",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "forget it",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I have to check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "take take out the trash off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remaining tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what do i have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "throw the ball",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "cancel buy milk",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "add plan the meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "put pay electricity bill on my list",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "get rid of order new monitor",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "take send the update off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "complete check the API",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "sure",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "help",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "all tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I don't need order new monitor anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up the dry cleaning is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "new task run the deployment",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "scratch update dependencies",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "finish deploy version 2.3 to staging",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take read the architecture RFC off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove prepare slides for the demo from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "swim across the lake",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule call the dentist",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call the vet is finished",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't forget to pay rent",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "send the proposal",
+    "intent": "create",
+    "bio": [
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind fix CSS on the landing page",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "create prepare the budget proposal",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i finished deploy version 2.3 to staging",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove pick up kids from school",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark write unit tests for the API done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "configure the router",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove the schedule dentist appointment",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i finished meeting with the client",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel pay rent",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "remove read chapter 5 of the Go book from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remember to check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "draw a picture of a cat",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I need to pay rent",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "catch the bus",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "good evening",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "book a table for two",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "cancel call the vet",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set a reminder to order lunch for the team",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind finish the task",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set reminder for check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "must call John",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "how does this work",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "complete buy groceries",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "remove the meeting with boss",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "compare these two options",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark prepare the budget proposal as done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "forget about finish the quarterly review",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "get rid of finish the report",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove the meeting with the client",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "jot down call the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "who are you",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "never mind water the plants",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "build a house",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "delete meeting",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "help me",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark send the proposal as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "swim across the lake",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove pick up the dry cleaning from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "build a house",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "forget about run the deployment",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set a reminder to order lunch for the team",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "trash backup photos to cloud",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "awesome",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "skip plan the demo",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "erase water the plants",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "sort the files by date",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I don't know",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark order lunch for the team as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "upload the file to the server",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "just finished call the dentist",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove buy groceries from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "cancel the check the API",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove the finish the quarterly review",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i finished buy milk today at 19:00",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "complete review PR #42",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "complete finish the report by Friday",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel fix CSS on the landing page",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "do i have anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "make sure to read the architecture RFC",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "play some music",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set a reminder to plan the meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "it's raining outside",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "checked check the backup",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's on my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "delete send the proposal",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's on my plate",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tick off finish the report",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "check off run the deployment",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I finished book hotel for the conference",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "entertain me",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "nevermind",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "the server is down",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I love this app",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I finished check the API",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "good morning",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i finished order new monitor",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "task: meeting with the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "complete finish the quarterly review",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove the buy milk today at 19:00",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't need pay electricity bill",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set a reminder to buy milk today at 19:00",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule send the invoice to accounting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove check the API from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "discard buy groceries",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "I finished book a flight to Berlin",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "analyze the data",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "nevermind buy milk today at 19:00",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "good morning",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "stop the engine",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i finished meeting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "swim across the lake",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "do i have anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "check the stock price",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark call the client as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "record a video",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove finish the report from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "skip prepare slides for the demo",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule book a flight to Berlin",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind send the proposal",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "add to my list: call the manager",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "new task review PR #42",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "forget it",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "gotta schedule dentist appointment",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't forget to call the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "drop send the update",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "delete the meeting with the team on Friday",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "all tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "done with take out the trash",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "just finished fix the login bug",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "delete the call the manager",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's left",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark pay electricity bill as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "discard fix the login bug",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "send email to the client is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take plan the meeting off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clear finish the report",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "need to order new monitor",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel call mom",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "give me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "close the window",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what do i have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did backup the database",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "print the document",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did book hotel for the conference",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't let me forget to pay rent",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "new task: clean the kitchen",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "make sure I meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "make sure to finish the task",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "do I have any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "checked take the dog to the vet",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "buy groceries is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "deploy the hotfix is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "catch the bus",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i finished meeting with the team on Friday",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "this is cool",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did send the invoice to accounting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "pending tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark review PR #42 as done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set reminder for send email to the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "checked fix CSS on the landing page",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "this doesn't make sense",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "restart the computer",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "nevermind",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "list my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "turn off the lights",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "just finished run the tests",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "climb mount everest",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "discard deploy the hotfix",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "erase backup photos to cloud",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "help me",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did deploy version 2.3 to staging",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "delete the check the backup",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i should take the dog to the vet",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark check the backup as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "give me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "draw a picture of a cat",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "debug the program",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what do I have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark fix the login bug as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish run the deployment",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "calculate 2 + 2",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send email to the client is finished",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what needs to be done",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove the call the plumber",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "add to my list: run the deployment",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "never mind fix the login bug",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "give me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "never mind clean the kitchen",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "discard order lunch for the team",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i need to clean the kitchen",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what do i have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "can you add run the deployment",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "debug the program",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "calculate 2 + 2",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "done with fix the login bug",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "new task check the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "buy bread done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "tick off meeting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "discard schedule 1-on-1 with Anna",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark pick up kids from school as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "add to my list: pay rent",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "replace the battery",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "note to self: plan the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark check the database as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "trash prepare the budget proposal",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't let me forget to meeting with the team on Friday",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "download the latest version",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did order new monitor",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "plan to book hotel for the conference",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't forget to prepare the budget proposal",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "erase finish the presentation",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "summarize the article",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "can you sing",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "drop pick up the dry cleaning",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "find the nearest gas station",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "add call the vet",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "open the door",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "plan the meeting",
+    "intent": "create",
+    "bio": [
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call an ambulance",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "install the update",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "merge the branches",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "just finished write unit tests for the API",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fly to the moon",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take meeting with the client off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "meeting with the team on Friday is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I have to review the deployment plan",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "add finish the task",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "plan to backup the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "need to take out the trash",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "drop prepare slides for the demo",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take prepare the budget proposal off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "the server is down",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "task: take out the trash",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "jot down check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I finished pick up kids from school",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "gotta buy groceries",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "mark review the deployment plan done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "thanks",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "take check the backup off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what are my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "add meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "I completed check the database",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "this is cool",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I need to review the deployment plan",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "describe the sunset",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I have to finish the report by Friday",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "meeting is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "todo: deploy version 2.3 to staging",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove take out the trash from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what do I have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what's on my plate",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "how many tasks do I have",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what's on my plate",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "check off meeting with the client",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "scratch buy bread",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark run the tests as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark water the plants as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what do I have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "translate hello to Spanish",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I completed backup the database",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remember to order lunch for the team",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show me my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "plan to deploy version 2.3 to staging",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "help",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "fly to the moon",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't let me forget to deploy version 2.3 to staging",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "just finished read chapter 5 of the Go book",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "what needs to be done",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "list my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish finish the task",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I want to go home",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "walk the dog around the park",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "delete backup photos to cloud",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "scan the barcode",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clear prepare slides for the demo",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me what I have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did send the invoice to accounting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "add meeting with the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i'm done with read chapter 5 of the Go book",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "scratch prepare slides for the demo",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "send the proposal is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "done with water the plants",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't forget to call John",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "jot down run the tests",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i'm done with check the database",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "pick up kids from school done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "erase pay rent",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "checked prepare the budget proposal",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i'm done with plan the demo",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "backup photos to cloud is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "tick off buy groceries",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "list my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "skip meeting with boss",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set a reminder to meeting with the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "new task: run the tests",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I need to check the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "overview",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "new task: order lunch for the team",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call the dentist is finished",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "list all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark backup the database as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "everything",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I finished send the invoice to accounting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind meeting with boss",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "can you add update dependencies",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "mark meeting with the team on Friday as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "do I have any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "open tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set reminder for finish the task",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "never mind update the README",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "clear book a flight to Berlin",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "plan to plan the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove schedule 1-on-1 with Anna",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "new task fix CSS on the landing page",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove meeting with boss tomorrow at 12:15",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "scan the barcode",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "check the stock price",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "put check the backup on my list",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "cancel pay electricity bill",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "delete order lunch for the team",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call an ambulance",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I'm confused",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remind me to run the tests",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's on my plate",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "catch the bus",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark buy bread as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "erase pick up kids from school",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "done with water the plants",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "give me the list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark buy milk done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "create backup photos to cloud",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "clear deploy the hotfix",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "skip order lunch for the team",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "forget about take the dog to the vet",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "get rid of order lunch for the team",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "need to prepare the budget proposal",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "deploy to production",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "do i have anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "erase send email to the client",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "give me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I finished pay electricity bill",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "finish meeting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "mark read chapter 5 of the Go book done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "todo: run the tests",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "wash the dishes",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "erase meeting with boss",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel the clean the kitchen",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the presentation",
+    "intent": "create",
+    "bio": [
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "trash order lunch for the team",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "list my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove the book a flight to Berlin",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "read chapter 5 of the Go book is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "new task check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what tasks do I have",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove the meeting",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "restart the computer",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "gotta pick up the dry cleaning",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "erase read the architecture RFC",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "plan to prepare slides for the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "take review PR #42 off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clear prepare the budget proposal",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i finished order lunch for the team",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "book a table for two",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "make sure to send the invoice to accounting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "buy groceries",
+    "intent": "create",
+    "bio": [
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "i need to call the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "iron my shirt",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark deploy version 2.3 to staging done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "help",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "overview",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "book a table for two",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did meeting with the client",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i don't need pick up the dry cleaning anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "search for flights to Paris",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "erase backup photos to cloud",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "give me the list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't let me forget to plan the meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel the pay electricity bill",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i'm done with schedule 1-on-1 with Anna",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark meeting with the team on Friday as done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove the review the deployment plan",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "walk the dog around the park",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "drop update dependencies",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "sing me a song",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the update",
+    "intent": "create",
+    "bio": [
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "hello",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "gotta buy milk today at 19:00",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what are my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "how are you",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what are my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "scratch deploy version 2.3 to staging",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "cancel send email to the client",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "scan the barcode",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark fix the login bug as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "run a marathon next week",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "please add check the backup",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i need to plan the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "skip send the update",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "make sure to finish the quarterly review",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "prepare the budget proposal is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the presentation done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "gotta schedule 1-on-1 with Anna",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "plan to prepare the budget proposal",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "move the couch",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "give me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "new task: review PR #42",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show me my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark read chapter 5 of the Go book as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "scratch call mom",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "must write unit tests for the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "clear run the tests",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "new task check the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind meeting with boss",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "this doesn't make sense",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what's pending",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i need to send email to the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "this doesn't make sense",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "put finish the report on my list",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "describe the sunset",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "read the architecture RFC is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "thank you",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I did meeting",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "trash schedule 1-on-1 with Anna",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I need to water the plants",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I finished order lunch for the team",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "please add write documentation for the SDK",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "take backup photos to cloud off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "list everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i need to meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "list everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "swim across the lake",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "upload the file to the server",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't need review the deployment plan",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "how are you",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove order new monitor from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "everything",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "what are my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "checked update dependencies",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "sort the files by date",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "list all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish send the proposal",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule 1-on-1 with Anna done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "i'm done with review the deployment plan",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remember to finish the presentation",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what needs to be done",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "note to self: send the invoice to accounting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "must plan the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "tick off meeting with boss",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "done with call John",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "water the plants is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "swim across the lake",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "open the door",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "just finished send the proposal",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "new task: meeting with the team on Friday",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remove the order new monitor",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark meeting as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set reminder for fix the login bug",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark buy bread as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "catch the bus",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "list all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "schedule send the proposal",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nah forget deploy version 2.3 to staging",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I'm bored",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "cancel buy milk today at 19:00",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "don't let me forget to backup the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "mark finish the report by Friday done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "what's on my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "check off book a flight to Berlin",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I have to meeting with the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i finished check the API",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "start the car",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the proposal is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "erase call the vet",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set reminder for finish the report by Friday",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "create buy milk today at 19:00",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "check off finish the quarterly review",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "skip finish the quarterly review",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i don't need buy groceries anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "take send email to the client off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "delete book hotel for the conference",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "make sure to prepare slides for the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't let me forget to order new monitor",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "scan the barcode",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "make sure I call the plumber",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set reminder for check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what needs to be done",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clear backup the database",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's left",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "rollback the release",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "nevermind finish the quarterly review",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "checked deploy version 2.3 to staging",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "note to self: check the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "gotta call the dentist",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "goodbye",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "i need to order new monitor",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "task: run the tests",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "new task check the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "skip pick up the dry cleaning",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "record a video",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "delete the take the dog to the vet",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "delete meeting with the client",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "yes",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "build a house",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "do I have any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "pick up kids from school is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "drop take the dog to the vet",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's up",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "help",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "call John is finished",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "discard buy bread",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "I completed fix CSS on the landing page",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's left",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "can you add buy groceries",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "need to call the dentist",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "take schedule dentist appointment off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "stop the engine",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "get rid of finish the report",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "add to my list: backup photos to cloud",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what's left",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "no",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "check off call John",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "replace the battery",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take the dog to the vet is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "do i have anything to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "done with send the proposal",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "erase deploy version 2.3 to staging",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "nevermind clean the kitchen",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "complete finish the report by Friday",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "ride a bike to work",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "checked update the README",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "all tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "jot down clean the kitchen",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "add meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "book hotel for the conference is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "check off backup the database",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "close the window",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set reminder for call John",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "I have to check the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "pending tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "wash the dishes",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "discard check the API",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "everything",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "I want to go home",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "fix the leaking faucet",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i don't need update the README anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "stop the engine",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark finish the report by Friday as finished",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "set reminder for send email to the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "list all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "merge the branches",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me what I have to do",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clear deploy version 2.3 to staging",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "schedule pick up kids from school",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "remaining tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "finish the report by Friday done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "must book a flight to Berlin",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "help",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "what's on my plate",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what is this app",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "calculate 2 + 2",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i finished buy milk today at 19:00",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "help",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "search for flights to Paris",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i should call the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "everything",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "note to self: finish the presentation",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "trash call the plumber",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "do I have any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "clear call John",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "need to schedule dentist appointment",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "fix CSS on the landing page is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I need a vacation",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "drop fix CSS on the landing page",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "overview",
+    "intent": "list",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "all todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "done with prepare slides for the demo",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what can you do",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "take a photo",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark meeting with the team on Friday as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "send the proposal is finished",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "please add read chapter 5 of the Go book",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "check the stock price",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't need call the manager",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "backup photos to cloud is complete",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove book hotel for the conference from my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "scratch buy bread",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "i need to prepare the budget proposal",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "delete write documentation for the SDK",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "thanks",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "I don't need meeting anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "O"
+    ]
+  },
+  {
+    "text": "nah forget read the architecture RFC",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set reminder for take out the trash",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "call John",
+    "intent": "create",
+    "bio": [
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "I finished buy milk",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "clear check the API",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "analyze the data",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "create plan the meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i'm done with clean the kitchen",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "rewrite this paragraph",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "delete buy groceries",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "never mind backup the database",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "finish the task is done",
+    "intent": "complete",
+    "bio": [
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "jot down send email to the client",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "check off call the dentist",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "i finished finish the task",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "please add plan the demo",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "just finished book a flight to Berlin",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I completed check the API",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "give me my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "task: order lunch for the team",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "set a reminder to take the dog to the vet",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "put read chapter 5 of the Go book on my list",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark meeting with the team on Friday as done",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "cancel the pick up kids from school",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "skip meeting with the team on Friday",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I have to backup the database",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "skip meeting with the client",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "upload the file to the server",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I don't need review the deployment plan anymore",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "O"
+    ]
+  },
+  {
+    "text": "take call the plumber off my list",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "need to write unit tests for the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what are my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "task: finish the report by Friday",
+    "intent": "create",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "iron my shirt",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "remove the call mom",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "never mind buy milk",
+    "intent": "delete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "yes",
+    "intent": "unknown",
+    "bio": [
+      "O"
+    ]
+  },
+  {
+    "text": "remaining tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "i need to buy bread",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I"
+    ]
+  },
+  {
+    "text": "do I have any tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show me my list",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "how are you",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark plan the meeting as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "mark update dependencies as complete",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "just finished deploy the hotfix",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "upload the file to the server",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "complete read chapter 5 of the Go book",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "show everything",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "time to sleep",
+    "intent": "unknown",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "plan to check the API",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "I need to meeting",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "text": "list my tasks",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "show all",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "I completed fix the login bug",
+    "intent": "complete",
+    "bio": [
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I"
+    ]
+  },
+  {
+    "text": "what are my todos",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "what haven't I done yet",
+    "intent": "list",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "don't forget to order lunch for the team",
+    "intent": "create",
+    "bio": [
+      "O",
+      "O",
+      "O",
+      "B",
+      "I",
+      "I",
+      "I",
+      "I"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "vocab_size": 128,
+  "embed_dim": 128,
+  "hidden_dim": 64,
+  "bio_labels": [
+    "O",
+    "B",
+    "I"
+  ]
+}

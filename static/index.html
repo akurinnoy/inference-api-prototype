@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TODO Recharged</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>TODO <span class="accent">Recharged</span></h1>
+        <p class="subtitle">Powered by inference, not REST</p>
+
+        <form id="add-form">
+            <input type="text" id="todo-input" placeholder="What needs to be done?" required>
+            <button type="submit">Add</button>
+        </form>
+
+        <div id="loading" class="loading hidden">Inferring...</div>
+        <div id="error-banner" class="error hidden"></div>
+
+        <ul id="todo-list"></ul>
+    </div>
+
+    <script src="/app.js"></script>
+</body>
+</html>

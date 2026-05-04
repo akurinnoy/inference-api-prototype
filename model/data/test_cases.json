@@ -1,0 +1,200 @@
+[
+  {
+    "input": "add buy milk today at 6pm urgent",
+    "intent": "create",
+    "title": "buy milk",
+    "priority": "urgent",
+    "time": "today at 6pm"
+  },
+  {
+    "input": "remind me to call the dentist tomorrow asap",
+    "intent": "create",
+    "title": "call the dentist",
+    "priority": "asap",
+    "time": "tomorrow"
+  },
+  {
+    "input": "add meeting with boss next monday high priority",
+    "intent": "create",
+    "title": "meeting with boss",
+    "priority": "high priority",
+    "time": "next monday"
+  },
+  {
+    "input": "add buy milk tomorrow",
+    "intent": "create",
+    "title": "buy milk",
+    "priority": "",
+    "time": "tomorrow"
+  },
+  {
+    "input": "remind me to call mom at 6pm",
+    "intent": "create",
+    "title": "call mom",
+    "priority": "",
+    "time": "at 6pm"
+  },
+  {
+    "input": "add meeting with boss next friday",
+    "intent": "create",
+    "title": "meeting with boss",
+    "priority": "",
+    "time": "next friday"
+  },
+  {
+    "input": "add review PR urgent",
+    "intent": "create",
+    "title": "review pr",
+    "priority": "urgent",
+    "time": ""
+  },
+  {
+    "input": "add fix the login bug high priority",
+    "intent": "create",
+    "title": "fix the login bug",
+    "priority": "high priority",
+    "time": ""
+  },
+  {
+    "input": "add pay electricity bill asap",
+    "intent": "create",
+    "title": "pay electricity bill",
+    "priority": "asap",
+    "time": ""
+  },
+  {
+    "input": "add buy milk",
+    "intent": "create",
+    "title": "buy milk",
+    "priority": "",
+    "time": ""
+  },
+  {
+    "input": "add send the invoice to accounting",
+    "intent": "create",
+    "title": "send the invoice to accounting",
+    "priority": "",
+    "time": ""
+  },
+  {
+    "input": "add buy milk urgent tomorrow",
+    "intent": "create",
+    "title": "buy milk",
+    "priority": "urgent",
+    "time": "tomorrow"
+  },
+  {
+    "input": "add meeting high priority next monday",
+    "intent": "create",
+    "title": "meeting",
+    "priority": "high priority",
+    "time": "next monday"
+  },
+  {
+    "input": "mark milk as done",
+    "intent": "complete",
+    "title": null,
+    "priority": null,
+    "time": null
+  },
+  {
+    "input": "delete the meeting",
+    "intent": "delete",
+    "title": null,
+    "priority": null,
+    "time": null
+  },
+  {
+    "input": "show all",
+    "intent": "list",
+    "title": null,
+    "priority": null,
+    "time": null
+  },
+  {
+    "input": "fly to the moon",
+    "intent": "unknown",
+    "title": null,
+    "priority": null,
+    "time": null
+  },
+
+  {
+    "input": "add review the pr today",
+    "intent": "create",
+    "title": "review the pr",
+    "priority": "",
+    "time": "today"
+  },
+  {
+    "input": "add fix the bug urgent",
+    "intent": "create",
+    "title": "fix the bug",
+    "priority": "urgent",
+    "time": ""
+  },
+  {
+    "input": "add update the database tomorrow",
+    "intent": "create",
+    "title": "update the database",
+    "priority": "",
+    "time": "tomorrow"
+  },
+  {
+    "input": "add write the report by friday",
+    "intent": "create",
+    "title": "write the report",
+    "priority": "",
+    "time": "by friday"
+  },
+  {
+    "input": "add run the deployment asap",
+    "intent": "create",
+    "title": "run the deployment",
+    "priority": "asap",
+    "time": ""
+  },
+
+  {
+    "input": "add pay the invoice by friday urgent",
+    "intent": "create",
+    "title": "pay the invoice",
+    "priority": "urgent",
+    "time": "by friday"
+  },
+  {
+    "input": "add send the proposal next monday high priority",
+    "intent": "create",
+    "title": "send the proposal",
+    "priority": "high priority",
+    "time": "next monday"
+  },
+  {
+    "input": "add check the backup tonight asap",
+    "intent": "create",
+    "title": "check the backup",
+    "priority": "asap",
+    "time": "tonight"
+  },
+  {
+    "input": "add update the backup tonight asap",
+    "intent": "create",
+    "title": "update the backup",
+    "priority": "asap",
+    "time": "tonight"
+  },
+  {
+    "input": "add call the vet next week",
+    "intent": "create",
+    "title": "call the vet",
+    "priority": "",
+    "time": "next week"
+  },
+  {
+    "input": "add finish the report today top priority",
+    "intent": "create",
+    "title": "finish the report",
+    "priority": "top priority",
+    "time": "today"
+  }
+]

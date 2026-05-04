@@ -1,0 +1,17 @@
+{
+  "vocab_size": 389,
+  "intent_labels": [
+    "create",
+    "complete",
+    "delete",
+    "list",
+    "unknown"
+  ],
+  "bio_labels": [
+    "O",
+    "B",
+    "I"
+  ],
+  "embed_dim": 160,
+  "hidden_dim": 80
+}
